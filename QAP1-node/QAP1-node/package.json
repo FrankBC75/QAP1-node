@@ -1,0 +1,12 @@
+{
+  "name": "qap1-node",
+  "version": "1.0.0",
+  "main": "process_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
